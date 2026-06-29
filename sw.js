@@ -20,7 +20,7 @@ self.addEventListener("install", (event) => {
         "/fonts/roboto-bold.woff2",
 
         // ⭐ Vite buildin JS-bundle (tämä on kriittinen)
-        "/assets/index-Dhcb6sqb.js",
+        "/assets/index-B9gBtIEU.js",
 
         // ⭐ Vite buildin CSS
         "/assets/index-DDu93xAL.css"
